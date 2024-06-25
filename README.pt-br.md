@@ -177,6 +177,13 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/wagnerbugs">
+                    <img src="https://avatars.githubusercontent.com/u/7289136?v=4" width="100;" alt="wagnerbugs"/>
+                    <br />
+                    <sub><b>Wagner Bugs</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/guibranco">
                     <img src="https://avatars.githubusercontent.com/u/3362854?v=4" width="100;" alt="guibranco"/>
                     <br />
@@ -211,6 +218,8 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                     <sub><b>E S Sahal Hussain</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/pferreirafabricio">
                     <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
@@ -218,8 +227,6 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                     <sub><b>Fabrício Pinto Ferreira</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Guillergood">
                     <img src="https://avatars.githubusercontent.com/u/16701917?v=4" width="100;" alt="Guillergood"/>
@@ -255,6 +262,8 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                     <sub><b>Leonardo Gregianin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/MauriciDmarc">
                     <img src="https://avatars.githubusercontent.com/u/129069676?v=4" width="100;" alt="MauriciDmarc"/>
@@ -262,8 +271,6 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                     <sub><b>Maurici Dmarco</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/rafaeldomi">
                     <img src="https://avatars.githubusercontent.com/u/135021?v=4" width="100;" alt="rafaeldomi"/>
