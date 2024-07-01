@@ -5647,7 +5647,7 @@
     "DateOperationStarted": "2020-09-29",
     "DatePixStarted": "2023-03-24 09:10:00",
     "DateRegistered": "2021-05-05T09:11:12.7115147-03:00",
-    "DateUpdated": "2024-06-29T12:08:09.7870113+00:00"
+    "DateUpdated": "2024-06-29T12:28:25.058972+00:00"
   },
   {
     "COMPE": "404",
@@ -7383,8 +7383,8 @@
     "COMPE": "513",
     "ISPB": "44728700",
     "Document": "44.728.700/0001-72",
-    "LongName": "ATF CREDIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "ATF CREDIT SCD S.A.",
+    "LongName": "ATF SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ATF SCD S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7400,7 +7400,7 @@
     "DateOperationStarted": "2022-12-02",
     "DatePixStarted": null,
     "DateRegistered": "2022-11-30T12:07:13.9849611+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7206326+00:00"
+    "DateUpdated": "2024-07-01T12:09:58.5998087+00:00"
   },
   {
     "COMPE": "514",
@@ -7998,7 +7998,7 @@
     "DateOperationStarted": "2024-01-08",
     "DatePixStarted": null,
     "DateRegistered": "2024-01-09T12:06:15.138698+00:00",
-    "DateUpdated": "2024-06-29T12:08:09.8351403+00:00"
+    "DateUpdated": "2024-06-29T12:28:25.1292546+00:00"
   },
   {
     "COMPE": "541",

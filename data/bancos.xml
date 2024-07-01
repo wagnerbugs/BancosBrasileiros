@@ -4797,7 +4797,7 @@
     <DateOperationStarted>2020-09-29</DateOperationStarted>
     <DatePixStarted>2023-03-24 09:10:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115147-03:00</DateRegistered>
-    <DateUpdated>2024-06-29T12:08:09.7870113Z</DateUpdated>
+    <DateUpdated>2024-06-29T12:28:25.058972Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>404</COMPE>
@@ -6199,8 +6199,8 @@
     <COMPE>513</COMPE>
     <ISPB>44728700</ISPB>
     <Document>44.728.700/0001-72</Document>
-    <LongName>ATF CREDIT SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>ATF CREDIT SCD S.A.</ShortName>
+    <LongName>ATF SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>ATF SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6210,7 +6210,7 @@
     <PCRP>false</PCRP>
     <DateOperationStarted>2022-12-02</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.9849611Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7206326Z</DateUpdated>
+    <DateUpdated>2024-07-01T12:09:58.5998087Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>514</COMPE>
@@ -6678,7 +6678,7 @@
     <PCRP>false</PCRP>
     <DateOperationStarted>2024-01-08</DateOperationStarted>
     <DateRegistered>2024-01-09T12:06:15.138698Z</DateRegistered>
-    <DateUpdated>2024-06-29T12:08:09.8351403Z</DateUpdated>
+    <DateUpdated>2024-06-29T12:28:25.1292546Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>541</COMPE>
