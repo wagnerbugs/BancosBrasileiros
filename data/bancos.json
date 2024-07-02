@@ -7400,7 +7400,7 @@
     "DateOperationStarted": "2022-12-02",
     "DatePixStarted": null,
     "DateRegistered": "2022-11-30T12:07:13.9849611+00:00",
-    "DateUpdated": "2024-07-01T12:09:58.5998087+00:00"
+    "DateUpdated": "2024-07-01T12:31:48.6647509+00:00"
   },
   {
     "COMPE": "514",
@@ -9116,7 +9116,7 @@
     "ShortName": "EMBRACRED S/A SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9127,9 +9127,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-03-11",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-07-05 09:00:00",
     "DateRegistered": "2024-03-05T12:06:35.1241273+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.745152+00:00"
+    "DateUpdated": "2024-07-02T12:08:59.9773293+00:00"
   },
   {
     "COMPE": "595",
