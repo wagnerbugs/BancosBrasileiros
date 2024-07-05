@@ -4,6 +4,19 @@
 
 ## Changelog
 
+### 2024-07-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 368 - BCO CSF S.A. - 08.357.240/0001-50
+    - **Products** (CTC): Crédito consignado, Troca de modalidade. **->** Cheque Especial, Crédito consignado, Troca de modalidade
+
+### 2024-07-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 403 - CORA SCFI - 37.880.206/0001-63
+    - **LongName** (STR): CORA SOCIEDADE DE CRÉDITO DIRETO S.A. **->** CORA SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.
+    - **ShortName** (STR): CORA SCD S.A. **->** CORA SCFI
+
 ### 2024-07-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

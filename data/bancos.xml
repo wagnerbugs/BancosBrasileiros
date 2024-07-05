@@ -4162,14 +4162,15 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <Products>
+      <Product>Cheque Especial</Product>
       <Product>Crédito consignado</Product>
-      <Product>Troca de modalidade.</Product>
+      <Product>Troca de modalidade</Product>
     </Products>
     <Url>https://www.carrefoursolucoes.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DatePixStarted>2022-10-31 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.726081Z</DateUpdated>
+    <DateUpdated>2024-07-05T12:09:10.5700637Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>370</COMPE>
@@ -4779,8 +4780,8 @@
     <COMPE>403</COMPE>
     <ISPB>37880206</ISPB>
     <Document>37.880.206/0001-63</Document>
-    <LongName>CORA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>CORA SCD S.A.</ShortName>
+    <LongName>CORA SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>CORA SCFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -4797,7 +4798,7 @@
     <DateOperationStarted>2020-09-29</DateOperationStarted>
     <DatePixStarted>2023-03-24 09:10:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115147-03:00</DateRegistered>
-    <DateUpdated>2024-06-29T12:28:25.058972Z</DateUpdated>
+    <DateUpdated>2024-07-03T12:07:14.7108658Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>404</COMPE>
@@ -7538,7 +7539,7 @@
     <DateOperationStarted>2024-03-11</DateOperationStarted>
     <DatePixStarted>2024-07-05 09:00:00</DatePixStarted>
     <DateRegistered>2024-03-05T12:06:35.1241273Z</DateRegistered>
-    <DateUpdated>2024-07-02T12:08:59.9773293Z</DateUpdated>
+    <DateUpdated>2024-07-02T12:28:19.7824614Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>595</COMPE>

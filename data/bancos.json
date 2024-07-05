@@ -4899,14 +4899,15 @@
     "PCRP": true,
     "SalaryPortability": null,
     "Products": [
+      "Cheque Especial",
       "Crédito consignado",
-      "Troca de modalidade."
+      "Troca de modalidade"
     ],
     "Url": "https://www.carrefoursolucoes.com.br",
     "DateOperationStarted": "2020-05-25",
     "DatePixStarted": "2022-10-31 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114653-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.726081+00:00"
+    "DateUpdated": "2024-07-05T12:09:10.5700637+00:00"
   },
   {
     "COMPE": "370",
@@ -5626,8 +5627,8 @@
     "COMPE": "403",
     "ISPB": "37880206",
     "Document": "37.880.206/0001-63",
-    "LongName": "CORA SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "CORA SCD S.A.",
+    "LongName": "CORA SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "ShortName": "CORA SCFI",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5647,7 +5648,7 @@
     "DateOperationStarted": "2020-09-29",
     "DatePixStarted": "2023-03-24 09:10:00",
     "DateRegistered": "2021-05-05T09:11:12.7115147-03:00",
-    "DateUpdated": "2024-06-29T12:28:25.058972+00:00"
+    "DateUpdated": "2024-07-03T12:07:14.7108658+00:00"
   },
   {
     "COMPE": "404",
@@ -9129,7 +9130,7 @@
     "DateOperationStarted": "2024-03-11",
     "DatePixStarted": "2024-07-05 09:00:00",
     "DateRegistered": "2024-03-05T12:06:35.1241273+00:00",
-    "DateUpdated": "2024-07-02T12:08:59.9773293+00:00"
+    "DateUpdated": "2024-07-02T12:28:19.7824614+00:00"
   },
   {
     "COMPE": "595",
