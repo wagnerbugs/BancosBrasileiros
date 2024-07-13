@@ -836,8 +836,8 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Crédito Consiginado</Product>
       <Product>troca de modalidade.</Product>
@@ -846,7 +846,7 @@
     <DateOperationStarted>2008-07-25</DateOperationStarted>
     <DatePixStarted>2023-04-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114694-03:00</DateRegistered>
-    <DateUpdated>2024-06-04T12:06:54.4313039Z</DateUpdated>
+    <DateUpdated>2024-07-13T12:07:46.6655413Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>080</COMPE>
@@ -4170,7 +4170,7 @@
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DatePixStarted>2022-10-31 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
-    <DateUpdated>2024-07-05T12:09:10.5700637Z</DateUpdated>
+    <DateUpdated>2024-07-05T12:06:44.3839046Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>370</COMPE>
@@ -6600,13 +6600,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2023-01-12</DateOperationStarted>
     <DatePixStarted>2023-01-27 07:15:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
-    <DateUpdated>2023-06-23T17:11:26.6713607Z</DateUpdated>
+    <DateUpdated>2024-07-13T12:07:46.6648096Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>537</COMPE>
@@ -8117,14 +8117,13 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Products>
-      <Product>Consignado</Product>
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancornx.com.br/</Url>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711546-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1858515Z</DateUpdated>
+    <DateUpdated>2024-07-12T12:07:35.3913004Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>739</COMPE>
