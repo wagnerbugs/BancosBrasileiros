@@ -936,7 +936,7 @@
     "DateOperationStarted": "2008-07-25",
     "DatePixStarted": "2023-04-17 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114694-03:00",
-    "DateUpdated": "2024-07-13T12:07:46.6655413+00:00"
+    "DateUpdated": "2024-07-13T12:06:06.9845276+00:00"
   },
   {
     "COMPE": "080",
@@ -2961,7 +2961,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.bancomaxima.com.br",
+    "Url": null,
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-05-12 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115103-03:00",
@@ -4903,7 +4903,7 @@
       "Crédito consignado",
       "Troca de modalidade"
     ],
-    "Url": "https://www.carrefoursolucoes.com.br",
+    "Url": null,
     "DateOperationStarted": "2020-05-25",
     "DatePixStarted": "2022-10-31 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114653-03:00",
@@ -7905,7 +7905,7 @@
     "DateOperationStarted": "2023-01-12",
     "DatePixStarted": "2023-01-27 07:15:00",
     "DateRegistered": "2023-03-03T14:56:55.3112606+00:00",
-    "DateUpdated": "2024-07-13T12:07:46.6648096+00:00"
+    "DateUpdated": "2024-07-13T12:06:06.9839223+00:00"
   },
   {
     "COMPE": "537",
@@ -9356,6 +9356,29 @@
     "DateUpdated": "2024-06-10T12:07:20.4288223+00:00"
   },
   {
+    "COMPE": "619",
+    "ISPB": "49931906",
+    "Document": "49.931.906/0001-19",
+    "LongName": "TRIO INSTITUICAO DE PAGAMENTO LTDA.",
+    "ShortName": "TRIO IP LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-08-01",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-07-26T12:08:32.6539342+00:00",
+    "DateUpdated": "2024-07-26T12:08:32.6539564+00:00"
+  },
+  {
     "COMPE": "620",
     "ISPB": "51342763",
     "Document": "51.342.763/0001-51",
@@ -10142,7 +10165,7 @@
     "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
-    "Url": "https://www.bancokeb.com.br",
+    "Url": null,
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-08-09 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114464-03:00",
