@@ -1012,11 +1012,16 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Pessoal. Financiamento de Veículos. Outros.</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url>https://www.bancorandon.com</Url>
     <DateOperationStarted>2020-08-03</DateOperationStarted>
     <DatePixStarted>2022-11-21 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114729-03:00</DateRegistered>
-    <DateUpdated>2022-11-12T12:06:33.149399Z</DateUpdated>
+    <DateUpdated>2024-07-31T12:09:34.0838539Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>089</COMPE>
@@ -2635,7 +2640,7 @@
     <Url>https://www.bancobcv.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115191-03:00</DateRegistered>
-    <DateUpdated>2024-07-30T12:09:04.6830819Z</DateUpdated>
+    <DateUpdated>2024-07-30T12:30:20.9839572Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>253</COMPE>
