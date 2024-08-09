@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2024-08-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 336 - BCO C6 S.A. - 31.872.495/0001-72
+    - **SalaryPortability** (PCPS): Banco folha e Destinatário **->** Destinatário
+
+### 2024-08-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 599 - AGORACRED S/A SCFI - 36.321.990/0001-07
+
 ### 2024-07-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
