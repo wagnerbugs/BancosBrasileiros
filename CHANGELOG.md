@@ -4,6 +4,19 @@
 
 ## Changelog
 
+### 2024-08-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 520 - SOMAPAY SCD S.A. - 44.705.774/0001-93
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-08-13 09:27:38
+
+### 2024-08-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 348 - BCO XP S.A. - 33.264.668/0001-03
+    - **SalaryPortability** (PCPS): Banco folha e Destinatário **->** Destinatário
+
 ### 2024-08-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
