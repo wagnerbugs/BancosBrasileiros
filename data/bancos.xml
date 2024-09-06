@@ -7839,7 +7839,7 @@
     <LongName>ISSUER INSTITUICAO DE PAGAMENTO LTDA.</LongName>
     <ShortName>ISSUER IP LTDA.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7848,9 +7848,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-08</DateOperationStarted>
-    <DatePixStarted>2024-05-17 09:47:12</DatePixStarted>
+    <DatePixStarted>2024-09-05 10:10:00</DatePixStarted>
     <DateRegistered>2024-03-04T12:10:35.0004133Z</DateRegistered>
-    <DateUpdated>2024-05-18T12:06:39.8544363Z</DateUpdated>
+    <DateUpdated>2024-09-06T12:09:22.8277332Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>599</COMPE>
@@ -8400,8 +8400,8 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-09-11</DateOperationStarted>
-    <DateRegistered>2024-09-05T12:09:40.1219559Z</DateRegistered>
-    <DateUpdated>2024-09-05T12:09:40.1219767Z</DateUpdated>
+    <DateRegistered>2024-09-05T12:33:05.3563736Z</DateRegistered>
+    <DateUpdated>2024-09-05T12:33:05.3564037Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>
