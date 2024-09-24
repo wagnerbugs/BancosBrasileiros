@@ -4,6 +4,31 @@
 
 ## Changelog
 
+### 2024-09-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 664 - EAGLE IP LTDA. - 11.414.839/0001-92
+  - 659 - ONEKEY PAYMENTS IP S.A. - 35.210.410/0001-41
+
+### 2024-09-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 594 - ASA SOCIEDADE DE CRÉDITO DIRETO S.A. - 48.703.388/0001-13
+    - **LongName** (STR): EMBRACRED S/A SOCIEDADE DE CRÉDITO DIRETO **->** ASA SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): EMBRACRED S/A SCD **->** ASA SOCIEDADE DE CRÉDITO DIRETO S.A.
+
+### 2024-09-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 646 - DM SA CFI - 91.669.747/0001-92
+
+### 2024-09-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 482 - SBCASH SCD - 42.259.084/0001-22
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2024-09-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
