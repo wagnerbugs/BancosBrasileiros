@@ -4,6 +4,62 @@
 
 ## Changelog
 
+### 2024-10-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 415 - BCO NACIONAL - 17.157.777/0001-67
+- Updated 1 bank
+  - 320 - BOC BRASIL - 07.450.604/0001-89
+    - **LongName** (STR): China Construction Bank (Brasil) Banco Múltiplo S/A **->** BANK OF CHINA (BRASIL) BANCO MÚLTIPLO S/A
+    - **ShortName** (STR): BCO CCB BRASIL S.A. **->** BOC BRASIL
+
+### 2024-10-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 632 - Z-ON SCD S.A. - 52.586.293/0001-34
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-10-03 07:07:47
+
+### 2024-10-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 592 - MAPS IP LTDA. - 45.548.763/0001-00
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-10-07 11:00:00
+
+### 2024-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 556 - SAYGO CÂMBIO - 40.333.582/0001-42
+    - **LongName** (STR): PROSEFTUR CORRETORA DE CAMBIO S.A **->** SAYGO CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): PROSEFTUR **->** SAYGO CÂMBIO
+
+### 2024-09-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 615 - SMART SOLUTIONS GROUP IP LTDA - 37.470.405/0001-01
+- Updated 1 bank
+  - 195 - VALOR S/A SCFI - 07.799.277/0001-75
+    - **LongName** (STR): VALOR SOCIEDADE DE CRÉDITO DIRETO S.A. **->** VALOR S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): VALOR SCD S.A. **->** VALOR S/A SCFI
+
+### 2024-09-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 632 - Z-ON SCD S.A. - 52.586.293/0001-34
+
+### 2024-09-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 636 - GIRO - SCD S/A - 40.112.555/0001-40
+
+### 2024-09-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 528 - REAG TRUST DTVM - 34.829.992/0001-86
+    - **LongName** (STR): REAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. **->** REAG TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): REAG DTVM S.A. **->** REAG TRUST DTVM
+
 ### 2024-09-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks
