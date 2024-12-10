@@ -4,6 +4,26 @@
 
 ## Changelog
 
+### 2024-12-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 663 - ACTUAL DTVM S.A. - 44.782.130/0001-07
+- Updated 2 banks
+  - 634 - BCO TRIANGULO S.A. - 17.351.180/0001-59
+    - **Products** (CTC): Null **->** Cheque Especial, Troca de Modalidade
+  - 662 - WE PAY OUT IP LTDA. - 32.708.748/0001-30
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-07-03 15:28:02 **->** 2024-12-09 11:10:00
+
+### 2024-12-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 674 - HINOVA PAY IP S.A. - 27.970.567/0001-47
+- Updated 1 bank
+  - 523 - HR DIGITAL SCD - 44.292.580/0001-03
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-06-10 06:02:13 **->** 2024-12-05 11:10:00
+
 ### 2024-12-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
