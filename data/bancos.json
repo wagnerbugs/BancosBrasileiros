@@ -1253,8 +1253,8 @@
     "COMPE": "095",
     "ISPB": "11703662",
     "Document": "11.703.662/0001-44",
-    "LongName": "Travelex Banco de Câmbio S.A.",
-    "ShortName": "TRAVELEX BANCO DE CÂMBIO S.A.",
+    "LongName": "BANCO TRAVELEX S.A.",
+    "ShortName": "BANCO TRAVELEX S.A.",
     "Network": "RSFN",
     "Type": "Banco de Câmbio",
     "PixType": "DRCT",
@@ -1270,7 +1270,7 @@
     "DateOperationStarted": "2010-06-22",
     "DatePixStarted": "2023-01-30 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114742-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.2246781+00:00"
+    "DateUpdated": "2024-12-20T12:10:07.3588413+00:00"
   },
   {
     "COMPE": "096",
@@ -6502,7 +6502,7 @@
     "DateOperationStarted": "2021-06-30",
     "DatePixStarted": "2022-03-08 10:30:00",
     "DateRegistered": "2021-07-06T07:20:49.2254617-03:00",
-    "DateUpdated": "2024-12-19T12:11:05.4637672+00:00"
+    "DateUpdated": "2024-12-19T12:08:15.9507206+00:00"
   },
   {
     "COMPE": "451",
@@ -8474,7 +8474,7 @@
     "DateOperationStarted": "2023-09-25",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347563+00:00",
-    "DateUpdated": "2024-12-19T12:11:05.4721148+00:00"
+    "DateUpdated": "2024-12-19T12:08:15.9574874+00:00"
   },
   {
     "COMPE": "560",

@@ -1130,8 +1130,8 @@
     <COMPE>095</COMPE>
     <ISPB>11703662</ISPB>
     <Document>11.703.662/0001-44</Document>
-    <LongName>Travelex Banco de Câmbio S.A.</LongName>
-    <ShortName>TRAVELEX BANCO DE CÂMBIO S.A.</ShortName>
+    <LongName>BANCO TRAVELEX S.A.</LongName>
+    <ShortName>BANCO TRAVELEX S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco de Câmbio</Type>
     <PixType>DRCT</PixType>
@@ -1145,7 +1145,7 @@
     <DateOperationStarted>2010-06-22</DateOperationStarted>
     <DatePixStarted>2023-01-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114742-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.2246781Z</DateUpdated>
+    <DateUpdated>2024-12-20T12:10:07.3588413Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>096</COMPE>
@@ -5658,7 +5658,7 @@
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered>2021-07-06T07:20:49.2254617-03:00</DateRegistered>
-    <DateUpdated>2024-12-19T12:11:05.4637672Z</DateUpdated>
+    <DateUpdated>2024-12-19T12:08:15.9507206Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>451</COMPE>
@@ -7286,7 +7286,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-25</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347563Z</DateRegistered>
-    <DateUpdated>2024-12-19T12:11:05.4721148Z</DateUpdated>
+    <DateUpdated>2024-12-19T12:08:15.9574874Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>560</COMPE>
