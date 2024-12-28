@@ -1145,7 +1145,7 @@
     <DateOperationStarted>2010-06-22</DateOperationStarted>
     <DatePixStarted>2023-01-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114742-03:00</DateRegistered>
-    <DateUpdated>2024-12-20T12:10:07.3588413Z</DateUpdated>
+    <DateUpdated>2024-12-20T12:07:51.9201305Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>096</COMPE>
@@ -6748,6 +6748,7 @@
     <LongName>BMP SOCIEDADE DE CRÉDITO DIRETO S.A</LongName>
     <ShortName>BMP SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6763,8 +6764,9 @@
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-05-22</DateOperationStarted>
+    <DatePixStarted>2025-01-08 08:00:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347544Z</DateRegistered>
-    <DateUpdated>2024-05-21T12:06:40.2011379Z</DateUpdated>
+    <DateUpdated>2024-12-28T12:09:19.576624Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>532</COMPE>
@@ -8517,7 +8519,7 @@
     <LongName>ONEKEY PAYMENTS INSTITUICAO DE PAGAMENTO SA</LongName>
     <ShortName>ONEKEY PAYMENTS IP S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8526,9 +8528,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-09-30</DateOperationStarted>
-    <DatePixStarted>2022-09-12 11:04:30</DatePixStarted>
+    <DatePixStarted>2024-12-20 10:10:00</DatePixStarted>
     <DateRegistered>2024-09-24T12:07:36.7070372Z</DateRegistered>
-    <DateUpdated>2024-09-24T12:07:35.7979065Z</DateUpdated>
+    <DateUpdated>2024-12-21T12:07:25.473962Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>660</COMPE>
