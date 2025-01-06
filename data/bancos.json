@@ -5475,7 +5475,7 @@
     "DateOperationStarted": "2020-12-01",
     "DatePixStarted": "2025-02-06 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114664-03:00",
-    "DateUpdated": "2025-01-04T12:09:20.2994567+00:00"
+    "DateUpdated": "2025-01-04T12:07:03.055914+00:00"
   },
   {
     "COMPE": "396",
@@ -8037,7 +8037,7 @@
     "DateOperationStarted": "2024-01-08",
     "DatePixStarted": "2025-01-10 11:30:00",
     "DateRegistered": "2024-01-09T12:06:15.138698+00:00",
-    "DateUpdated": "2025-01-04T12:09:20.2031215+00:00"
+    "DateUpdated": "2025-01-04T12:07:02.9553062+00:00"
   },
   {
     "COMPE": "541",
@@ -10128,6 +10128,29 @@
     "DatePixStarted": "2024-10-15 00:05:41",
     "DateRegistered": "2024-12-06T12:08:41.1206753+00:00",
     "DateUpdated": "2024-12-06T12:08:40.2615333+00:00"
+  },
+  {
+    "COMPE": "676",
+    "ISPB": "35479592",
+    "Document": "35.479.592/0001-50",
+    "LongName": "DUFRIO FINANCEIRA, CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S.A.",
+    "ShortName": "DUFRIO CFI S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-01-10",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-01-06T12:10:52.2769693+00:00",
+    "DateUpdated": "2025-01-06T12:10:52.2769879+00:00"
   },
   {
     "COMPE": "707",
